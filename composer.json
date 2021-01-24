@@ -1,0 +1,18 @@
+{
+    "name": "webevolui/funcao-moeda",
+    "description": "Pacote para tratar string com moeda para ser inserido no banco de dados",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ewerton Dutra",
+            "email": "ewerton.rfd@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WebEvolui\\": "src/"
+        }
+    }
+}
